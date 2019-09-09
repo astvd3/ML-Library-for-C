@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <stdint.h>
+#include <math.h>
 
 /* Activation Function types 2 */
 typedef enum
