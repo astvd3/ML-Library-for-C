@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
+/* Activation Function types */
 typedef enum
 {
     ACT_RELU,
